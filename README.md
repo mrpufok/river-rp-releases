@@ -1,6 +1,6 @@
 # RIVER RP
 
-[Скачать River RP Лаунчер для Windows 10–11 x64](https://github.com/mrpufok/river-rp-releases/releases/download/river-platform-v0.2.3/RIVER-Platform-Setup.exe)
+[Скачать River RP Лаунчер для Windows 10–11 x64](https://github.com/mrpufok/river-rp-releases/releases/download/river-platform-v0.2.4/RIVER-Platform-Setup.exe)
 
 1. Установите лаунчер в выбранную папку.
 2. Откройте **River RP Лаунчер** и нажмите **Скачать игру**.
