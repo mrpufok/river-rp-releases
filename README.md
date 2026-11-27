@@ -1,9 +1,11 @@
 # RIVER RP
 
-[Скачать RIVER для Windows 10–11 x64](https://github.com/mrpufok/river-rp-releases/releases/download/river-platform-v0.2.0/RIVER-Platform-Setup.exe)
+[Скачать River RP Лаунчер для Windows 10–11 x64](https://github.com/mrpufok/river-rp-releases/releases/download/river-platform-v0.2.1/RIVER-Platform-Setup.exe)
 
-Если RIVER уже установлен, откройте его ярлыком. При первом запуске выберите папку своей совместимой GTA San Andreas по запросу лаунчера.
+1. Установите лаунчер в выбранную папку.
+2. Откройте **River RP Лаунчер** и нажмите **Скачать игру**.
+3. После проверки файлов нажмите **Играть** и выберите DON.
 
-Платформа устанавливает нативный клиент River с собственным меню Escape и экраном загрузки. Последующие обновления доступны через лаунчер.
+Если RIVER уже установлен, откройте существующий ярлык и обновите лаунчер.
 
-[Файлы релиза, лицензии и исходный код GPL-клиента](https://github.com/mrpufok/river-rp-releases/releases/tag/river-platform-v0.2.0)
+[Файлы релиза, лицензии и исходный код GPL-клиента](https://github.com/mrpufok/river-rp-releases/releases/tag/river-platform-v0.2.1)
